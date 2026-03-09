@@ -104,5 +104,7 @@ OUTPUT:
 
 <img width="1919" height="1135" alt="Screenshot 2026-03-09 155757" src="https://github.com/user-attachments/assets/a6c55d81-5306-4c1b-a939-65d7f851b9c2" />
 
+
 RESULT:
+
 Thus the Autocorrelation and PSD are executed in Scilab and output is verified.
